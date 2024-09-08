@@ -1,0 +1,3 @@
+Lunge Jumps : 4 * 3
+lunge drives : 4 * 2 
+knee tucks  : 5*2 
