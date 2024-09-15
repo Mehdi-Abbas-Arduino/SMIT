@@ -1,0 +1,38 @@
+What is data engineering ?
+How data storage works ? 
+How to move and process data ?
+
+Data Workflow :
+1. Data Collection & Storage (Data engineering)
+2. Data Preparation (Data engineering : sometimes) (Data Analyst)
+3. Exploration and Visualization (Data Analyst)
+4. Experiment and prediction (Data Scientist)
+NOTE: All of these Data Workflow is done by a data scientist 
+
+Responsibilities :
+
+Ingest data from different sources(From where to bring)
+optimize database for analysis
+Remove corrupted data
+Develop, construct,test and maintain data architectures
+
+Data engineers and big data :
+Big data becomes the norm => data engineers are more and more needed 
+Big data :
+Have too think about how to deal with its size
+So large traditional methods dont work anymore 
+
+
+Big data Growth :
+ Sensors and Devices
+ VoIP
+ Social Media
+ Enterprise data
+
+Five V's:
+ 
+Volume (how much ?)
+Variety (What kind?)
+Velocity (How frequent?)
+Value(How useful?)
+Veracity(How accurate?)
