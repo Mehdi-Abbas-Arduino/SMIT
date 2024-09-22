@@ -24,10 +24,10 @@ So large traditional methods dont work anymore
 
 
 Big data Growth :
- Sensors and Devices
- VoIP
- Social Media
- Enterprise data
+Sensors and Devices
+VoIP
+Social Media
+Enterprise data
 
 Five V's:
  
@@ -36,3 +36,4 @@ Variety (What kind?)
 Velocity (How frequent?)
 Value(How useful?)
 Veracity(How accurate?)
+ETL (Extraction,Transformation and loading)
