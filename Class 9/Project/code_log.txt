@@ -1,0 +1,13 @@
+2024-09-22 11:33:59.072941 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:34:00.842147 : Data Initialization process completed , Starting Transformation process 
+2024-09-22 11:37:51.629752 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:37:53.858247 : Data Initialization process completed , Starting Transformation process 
+2024-09-22 11:38:30.035227 : Welcome 
+2024-09-22 11:38:33.289304 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:38:35.341127 : Data Initialization process completed , Starting Transformation process 
+2024-09-22 11:40:00.137960 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:40:02.384605 : Data Initialization process completed , Starting Transformation process 
+2024-09-22 11:43:27.765837 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:43:29.600046 : Data Initialization process completed , Starting Transformation process 
+2024-09-22 11:44:20.528383 : Preliminaries complete. Initiating ETL process 
+2024-09-22 11:44:22.812669 : Data Initialization process completed , Starting Transformation process 
